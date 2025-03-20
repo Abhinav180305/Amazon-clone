@@ -1,2 +1,2 @@
 # Amazon-clone
-This is my first Git Repository.
+This is my first Gits Repository.
